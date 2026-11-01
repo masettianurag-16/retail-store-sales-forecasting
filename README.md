@@ -1,11 +1,5 @@
 # 🛒 Retail Store Sales Forecasting
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Statsmodels](https://img.shields.io/badge/statsmodels-v0.14+-darkblue.svg)](https://www.statsmodels.org/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-latest-orange.svg)](https://scikit-learn.org/)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?logo=jupyter)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 An end-to-end time series analysis and forecasting project built with Python to predict weekly retail store sales. This repository covers data ingestion and merging, exploratory data analysis (EDA), time series decomposition, stationarity testing (ADF test), and model comparison between Seasonal Naive, ARIMA, and SARIMA.
 
 ---
@@ -191,8 +185,3 @@ Execute the notebook cells sequentially from top to bottom (**Cell > Run All**).
 
 ---
 
-## 👤 Author & Acknowledgments
-- **Author:** `[Your Name]`
-- **GitHub:** [@your-github-username](https://github.com/[your-github-username])
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/[your-linkedin-username])
-- **Data Source:** Retail Store Sales Historical Dataset (Walmart Store Sales Forecasting benchmark)
